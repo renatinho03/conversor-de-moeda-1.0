@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+  color: white;
+}
+p1{
+  font-family: OCR A Std, monospace;
+}
+p2{
+  font-family: OCR A Std, monospace;
+  color: #6eff6b;
+}
+div{
+  font-family: OCR A Std, monospace;
+}
